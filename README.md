@@ -1,2 +1,2 @@
-# Technic90.github.io
+# Andrew Tereschenko
 My first website
